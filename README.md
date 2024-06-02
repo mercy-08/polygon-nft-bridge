@@ -54,8 +54,7 @@ For any issues or questions, please open an issue on GitHub or reach out to the 
 
 ## Authors
 
-- Omemgboji Emmanuel
-  - GitHub: [signor1](https://github.com/signor1)
+- Mercy
 
 
 ## License

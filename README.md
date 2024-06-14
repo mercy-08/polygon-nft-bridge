@@ -49,7 +49,7 @@ This project aims to create and deploy a collection of NFTs using images generat
 
 For any issues or questions, please open an issue on GitHub or reach out to the project contributors.
 
-- Contract Address - [0xed374f8B4d22361D2487404dE34224f74F85Fb4C]
+- Contract Address - [0x39f01be589c5ed94B9dA8Bcd231C603bEcd88d3a]
 - Account Address - [0xd9dBe0daa503Caa6e061f1902a7AF22af096E645]
 
 ## Authors

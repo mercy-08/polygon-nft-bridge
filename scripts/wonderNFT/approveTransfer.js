@@ -2,7 +2,9 @@ const hre = require("hardhat");
 require("dotenv").config();
 const fxERC721RootContractABI = require("../ABI/ERC721FxRootContractABI.json");
 
-const { BRIDGE_ADDRESS, CONTRACT_ADDRESS, fxERC721RootAddress } = process.env;
+const { BRIDGE_ADDRESS, CONTRACT_ADDRESS } = process.env;
+
+const fxERC721RootAddress = "0x3658ccFDE5e9629b0805EB06AaCFc42416850961";
 
 async function main() {
   const [deployer] = await hre.ethers.getSigners();
